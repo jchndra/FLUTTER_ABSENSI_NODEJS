@@ -1,0 +1,23 @@
+name: absensi_club_olahraga
+description: A minimal Flutter app scaffold
+publish_to: "none"
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.0
+  flutter_riverpod: ^2.3.6
+  # fl_chart removed because it caused build errors on current Flutter SDK
+  shared_preferences: ^2.1.0
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

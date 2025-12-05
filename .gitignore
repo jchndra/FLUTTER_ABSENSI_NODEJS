@@ -1,0 +1,53 @@
+# Flutter / Dart
+.dart_tool/
+.pub/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-deps
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/local.properties
+android/.gradle/
+android/app/debug.keystore
+
+# iOS
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+
+# Env files
+.env
+.env.*
+
+# Database files
+*.sqlite3
+*.db
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+# Node
+node_modules/
+
+# Flutter / Dart
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+build/
+
+# IDE
+.idea/
+.vscode/
